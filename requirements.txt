@@ -1,0 +1,9 @@
+websockets
+pyaudio
+requests
+pipecat-ai[google]
+pipecat-ai[silero]
+google-generativeai
+environs
+soxr
+opuslib
